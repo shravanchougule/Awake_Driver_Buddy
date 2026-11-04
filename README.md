@@ -81,9 +81,9 @@ This project demonstrates how computer vision can identify a potential sign of d
 ## Build 
 
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Ship faster**: describe what you want to build and  handles the code.
 - **Stay in sync**: every change made is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back , ready for your next prompt.
 
 ## Development
 
@@ -92,6 +92,6 @@ Prefer working locally? You need Node.js and npm — [install with nvm](https://
 ```sh
 git clone <this-repository-url>
 cd <repository-name>
-npm i
+npm install
 npm run dev
 ```
